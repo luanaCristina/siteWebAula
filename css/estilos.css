@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(138, 50, 173);
+    background-image: linear-gradient(to right, purple, cyan, green);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 1ex 2ex 4ex 5ex;
+    text-align: justify;
+}
+img{
+    padding: auto;
+
+}
+p{
+
+}
+
+#um{
+    font-size: 3em;
+    color: red;
+}
+
+#dois{
+    font-size: 2em;
+}
